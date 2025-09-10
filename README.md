@@ -1,7 +1,7 @@
 # -Chaesarrio-Taufiqul-Hakim-postest-1-PBO
-Nama = Chaesarrio Taufiqul Hakim
+<pre>Nama = Chaesarrio Taufiqul Hakim
 NIM = 2409116096
-
+Kelas = Sistem Informasi C</pre>
 ## Deskripsi Singkat
 Program ini adalah aplikasi CRUD sederhana berbasis Java yang digunakan untuk mencatat hasil panen sayur.
 Dibuat untuk latihan dasar pemrograman menggunakan:
